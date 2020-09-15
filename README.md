@@ -1,8 +1,5 @@
 This is a simple assignment answer for the odin project.
 
-Now if I upload it to Repl.it it looks at ./ .html as the file path by default and hence shows 404. This can obviously be solved by hardcoding each file path
-but i think that boring as this can be done much faster in express. Anyway the code provided above works fine in a simple folder.
-Also the Assignment itself says /about should take me to about
 
 
 Make a project directory and create the following files inside that directory:
